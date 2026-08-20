@@ -20,3 +20,5 @@ env/
 dataset/
 Training/
 Testing/
+.venv/
+.venv312/
